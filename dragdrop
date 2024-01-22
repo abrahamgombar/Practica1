@@ -1,0 +1,28 @@
+#imagenes, #zonas{
+  float: left;
+  width: 420px;
+  height: 420px;
+  margin-left: 20px;
+  border: 1px solid #999999;
+}
+
+#imagenes img, .zona{
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  outline: 2px solid #999999;
+  outline-offset: 2px;
+}
+
+#resultado img{
+  float: left;
+  width: 400px;
+  margin: 10px;
+}
+
+.zona img{
+  float: left;
+  width: 200px;
+  height: 200px;
+}
